@@ -15,7 +15,7 @@ public class MainController {
 	@RequestMapping("/index")
 	public String index() {
 		
-		return "index";
+		return "ingresar";
 	}
 	
 	@RequestMapping("/validacion")
